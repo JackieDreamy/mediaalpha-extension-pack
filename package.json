@@ -13,7 +13,8 @@
     ],
     "extensionPack": [ 
         "yanfei.mediaalpha-extension-pack"
-    ],
+	],
+	"repository": "https://github.com/JackieDreamy/mediaalpha-extension-pack",
     "extensionDependencies": [
         "janjoerke.align-by-regex",
 		"vs-publisher-988541.apexsql-power-tools",
