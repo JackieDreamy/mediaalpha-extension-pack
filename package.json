@@ -1,0 +1,40 @@
+{
+    "name": "mediaalpha-extension-pack",
+    "displayName": "MediaAlpha-Extension-Pack",
+    "description": "MediaAlpha Development Environment Extension Pack",
+    "publisher": "Yanfei Shao",
+    "version": "0.0.1",
+    "icon": "https://mediaalpha.com/wp-content/uploads/2019/04/MA_horizontal.png",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ],
+    "extensionDependencies": [
+        "janjoerke.align-by-regex",
+		"vs-publisher-988541.apexsql-power-tools",
+		"awarest.awarest-align",
+		"wwm.better-align",
+		"alefragnani.bookmarks",
+		"formulahendry.code-runner",
+		"streetsidesoftware.code-spell-checker",
+		"phplasma.csv-to-table",
+		"mitchdenny.ecdc",
+		"d3skdev.git-commit-message-helper",
+		"mhutchie.git-graph",
+		"donjayamanne.githistory",
+		"huizhou.githd",
+		"shaharkazaz.git-merger",
+		"github.vscode-pull-request-github",
+		"eamodio.gitlens",
+		"atlassian.atlascode",
+		"richterger.perl",
+		"humao.rest-client",
+		"bwildeman.tabulous",
+		"dakara.transformer"
+    ]
+}
