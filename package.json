@@ -9,7 +9,7 @@
 	"keywords": [
 		"Other",
 		"Extension Packs"
-	]
+	],
     "engines": {
         "vscode": "^1.47.0"
     },
