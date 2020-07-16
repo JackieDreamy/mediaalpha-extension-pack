@@ -2,7 +2,7 @@
     "name": "mediaalpha-extension-pack",
     "displayName": "MediaAlpha-Extension-Pack",
     "description": "MediaAlpha Development Environment Extension Pack",
-    "publisher": "Yanfei Shao",
+    "publisher": "YanfeiShao",
     "version": "0.0.1",
     "icon": "https://mediaalpha.com/wp-content/uploads/2019/04/MA_horizontal.png",
     "engines": {
