@@ -96,6 +96,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - This Visual Studio Code extension helps you compare your working tree against a branch, tag, or commit in a natural folder tree structure.
 
+[Restore Git Branch Tabs](https://marketplace.visualstudio.com/items?itemName=gkotas.restore-git-branch-tabs)
+
+- Restore opened tabs on a per git branch basis.
 
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3

@@ -1,4 +1,7 @@
 # Change Log
+v 0.0.6
+- Added Restore Git Branch Tabs
+
 v 0.0.5
 - Added Remote SSH
 
