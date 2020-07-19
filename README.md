@@ -11,6 +11,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - Connect to MySQL and MariaDB instances, run queries and display results, search for objects, export query results into several standard formats, generate DDL and DML scripts from object explorer.
 
+[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- The Remote - SSH extension lets you use any remote machine with a SSH server as your development environment. This can greatly simplify development and troubleshooting in a wide variety of situations.
+
 [Awarest Align](https://marketplace.visualstudio.com/items?itemName=awarest.awarest-align)
 
 - Alignment and formatting helpers for whitespace, symbols, and transposing.
