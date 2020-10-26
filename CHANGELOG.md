@@ -1,4 +1,7 @@
 # Change Log
+v 0.0.7
+- Added Prettier ESLint
+
 v 0.0.6
 - Added Restore Git Branch Tabs
 

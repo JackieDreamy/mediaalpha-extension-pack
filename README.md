@@ -100,5 +100,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - Restore opened tabs on a per git branch basis.
 
+[Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
+
+- A Visual Studio Extension to format JavaScript code using the prettier-eslint package.
+
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3
