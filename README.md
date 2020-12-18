@@ -104,5 +104,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - A Visual Studio Extension to format JavaScript code using the prettier-eslint package.
 
+[Docs Markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+
+- This extension provides Markdown authoring assistance for docs.microsoft.com (Docs) content, including basic Markdown support and support for custom Markdown syntax on Docs. We also now support some YAML authoring commands.
+
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3

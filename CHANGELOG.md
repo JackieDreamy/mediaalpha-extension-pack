@@ -1,4 +1,7 @@
 # Change Log
+v 0.0.8
+- Added Docs Markdown
+
 v 0.0.7
 - Added Prettier ESLint
 
