@@ -1,4 +1,8 @@
 # Change Log
+v 0.0.9
+- Added MySQL
+- Removed ApexSQL
+
 v 0.0.8
 - Added Docs Markdown
 

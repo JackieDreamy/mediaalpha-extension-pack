@@ -7,9 +7,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 - Align multiple lines of text by regular expressions.
 - Store regular expressions as templates for repeated use.
 
-[ApexSQL](https://marketplace.visualstudio.com/items?itemName=vs-publisher-988541.apexsql-power-tools)
+[MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 
-- Connect to MySQL and MariaDB instances, run queries and display results, search for objects, export query results into several standard formats, generate DDL and DML scripts from object explorer.
+- Database Client for Visual Studio Code. It supports databases MySQL/MariaDB, Microsoft SQL Server, PostgreSQL, Redis, and ElasticSearch.
 
 [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - The Remote - SSH extension lets you use any remote machine with a SSH server as your development environment. This can greatly simplify development and troubleshooting in a wide variety of situations.
