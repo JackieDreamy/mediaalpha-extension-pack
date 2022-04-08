@@ -3,7 +3,7 @@
     "displayName": "MediaAlpha Extension Pack",
     "description": "MediaAlpha Development Environment Extension Pack",
     "publisher": "YanfeiShao",
-    "version": "0.0.9",
+    "version": "0.1.0",
 	"icon": "ma-icon.png",
 	"preview": true,
 	"keywords": [
@@ -22,7 +22,8 @@
 		"docsmsft.docs-markdown",
 		"gkotas.restore-git-branch-tabs",
 		"ms-vscode-remote.remote-ssh",
-    "janjoerke.align-by-regex",
+		"DotJoshJohnson.xml",
+    	"janjoerke.align-by-regex",
 		"cweijan.vscode-mysql-client2",
 		"awarest.awarest-align",
 		"wwm.better-align",

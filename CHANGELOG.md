@@ -1,4 +1,7 @@
 # Change Log
+v 0.1.0
+- Added XML Tools
+
 v 0.0.9
 - Added MySQL
 - Removed ApexSQL

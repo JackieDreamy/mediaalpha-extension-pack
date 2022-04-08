@@ -108,5 +108,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - This extension provides Markdown authoring assistance for docs.microsoft.com (Docs) content, including basic Markdown support and support for custom Markdown syntax on Docs. We also now support some YAML authoring commands.
 
+[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+- XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
+
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3
