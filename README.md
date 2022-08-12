@@ -79,6 +79,10 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 - Language Server
 - Debugger
 
+[Perl Critic](https://marketplace.visualstudio.com/items?itemName=sfodje.perlcritic)
+
+- A Perl source code analyzer for VSCode
+
 [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.

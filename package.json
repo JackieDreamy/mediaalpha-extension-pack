@@ -44,6 +44,7 @@
 		"humao.rest-client",
 		"bwildeman.tabulous",
 		"dakara.transformer",
-		"letmaik.git-tree-compare"
+		"letmaik.git-tree-compare",
+		"sfodje.perlcritic"
     ]
 }

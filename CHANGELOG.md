@@ -1,4 +1,7 @@
 # Change Log
+v 0.1.1
+- Added Perl Critic
+
 v 0.1.0
 - Added XML Tools
 
