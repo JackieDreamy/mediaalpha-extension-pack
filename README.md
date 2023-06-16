@@ -116,5 +116,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
 
+[Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+
+- The Postman VS Code extension enables you to develop and test your APIs in Postman directly from Visual Studio Code.
+
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3

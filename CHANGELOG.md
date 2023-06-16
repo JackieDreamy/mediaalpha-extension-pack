@@ -1,4 +1,7 @@
 # Change Log
+v 0.1.2
+- Added Postman
+
 v 0.1.1
 - Added Perl Critic
 
