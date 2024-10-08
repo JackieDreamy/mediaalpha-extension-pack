@@ -1,4 +1,7 @@
 # Change Log
+v 0.1.3
+- Replaced wwm.better-align with Chouzz.vscode-better-align
+
 v 0.1.2
 - Added Postman
 
