@@ -120,5 +120,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - The Postman VS Code extension enables you to develop and test your APIs in Postman directly from Visual Studio Code.
 
+[Perl Navigator](https://marketplace.visualstudio.com/items?itemName=bscan.perlnavigator)
+
+- Provides syntax checking, autocompletion, perlcritic, code navigation, hover for Perl (AL 2023).
+
 ## License
 GNU GENERAL PUBLIC LICENSE, Version 3

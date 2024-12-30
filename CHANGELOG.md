@@ -1,4 +1,7 @@
 # Change Log
+v 0.1.3
+- Added Perl Navigator
+
 v 0.1.2
 - Added Postman
 

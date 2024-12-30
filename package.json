@@ -3,7 +3,7 @@
     "displayName": "MediaAlpha Extension Pack",
     "description": "MediaAlpha Development Environment Extension Pack",
     "publisher": "YanfeiShao",
-    "version": "0.1.2",
+    "version": "0.1.3",
 	"icon": "ma-icon.png",
 	"preview": true,
 	"keywords": [
@@ -46,6 +46,7 @@
 		"bwildeman.tabulous",
 		"dakara.transformer",
 		"letmaik.git-tree-compare",
-		"sfodje.perlcritic"
+		"sfodje.perlcritic",
+		"bscan.perlnavigator"
     ]
 }
