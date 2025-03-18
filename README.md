@@ -22,9 +22,9 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 
 - It helps you to navigate in your code, moving between important positions easily and quickly. No more need to search for code. It also supports a set of selection commands, which allows you to select bookmarked lines and regions between bookmarked lines. It's really useful for log file analysis.
 
-[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align)
 
-- Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+- Better vertical alignment with/without selection in any language for any characters or words.
 
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
@@ -82,6 +82,10 @@ MediaAlpha Extension Pack is a collection of popular extensions that can help wr
 [Perl Critic](https://marketplace.visualstudio.com/items?itemName=sfodje.perlcritic)
 
 - A Perl source code analyzer for VSCode
+
+[Perl Tidy](https://marketplace.visualstudio.com/items?itemName=sfodje.perltidy)
+
+- This extension is a simple formatter for perl code using Perl::Tidy
 
 [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 

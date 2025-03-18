@@ -3,7 +3,7 @@
     "displayName": "MediaAlpha Extension Pack",
     "description": "MediaAlpha Development Environment Extension Pack",
     "publisher": "YanfeiShao",
-    "version": "0.1.3",
+    "version": "0.1.4",
 	"icon": "ma-icon.png",
 	"preview": true,
 	"keywords": [
@@ -27,7 +27,7 @@
     	"janjoerke.align-by-regex",
 		"cweijan.vscode-mysql-client2",
 		"awarest.awarest-align",
-		"wwm.better-align",
+		"Chouzz.vscode-better-align",
 		"alefragnani.bookmarks",
 		"formulahendry.code-runner",
 		"streetsidesoftware.code-spell-checker",
@@ -47,6 +47,7 @@
 		"dakara.transformer",
 		"letmaik.git-tree-compare",
 		"sfodje.perlcritic",
-		"bscan.perlnavigator"
+		"bscan.perlnavigator",
+		"sfodje.perltidy"
     ]
 }

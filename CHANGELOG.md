@@ -1,4 +1,8 @@
 # Change Log
+v 0.1.4
+- Added Perl Tidy
+- Replaced Better Align
+
 v 0.1.3
 - Added Perl Navigator
 
